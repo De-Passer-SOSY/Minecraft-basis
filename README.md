@@ -14,7 +14,7 @@ Er staan een lijst en een tabel in commentaar (tussen &lt;!-- en --&gt;). Deze m
 ### Opgave
 
 1.  Pull deze repository naar je eigen computer
-1.	Verander de extensie van het bestand naar .html. Waarom dien je dit te doen?
+1.	Verander de extensie van het bestand miniecraft.txt naar .html. Waarom dien je dit te doen?
 2.	Open het bestand minecraft.html in je IDE.
 3.	Begin met de nodige kopteksten toe te voegen (h-elementen) zodat de grote structuur al duidelijk is.
 4.	Voeg de paragrafen toe.
